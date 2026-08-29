@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array.java/Array.java.iml" filepath="$PROJECT_DIR$/Array.java/Array.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atomgitcode.iml" filepath="$PROJECT_DIR$/Atomgitcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bus.java/Bus.java.iml" filepath="$PROJECT_DIR$/Bus.java/Bus.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Min.java/Min.java.iml" filepath="$PROJECT_DIR$/Min.java/Min.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape.java/Shape.java.iml" filepath="$PROJECT_DIR$/Shape.java/Shape.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting.java/Sorting.java.iml" filepath="$PROJECT_DIR$/Sorting.java/Sorting.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperBank.java/SuperBank.java.iml" filepath="$PROJECT_DIR$/SuperBank.java/SuperBank.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.java/Test.java.iml" filepath="$PROJECT_DIR$/Test.java/Test.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whileloop.java/Whileloop.java.iml" filepath="$PROJECT_DIR$/Whileloop.java/Whileloop.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eh.java/eh.java.iml" filepath="$PROJECT_DIR$/eh.java/eh.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max.java/max.java.iml" filepath="$PROJECT_DIR$/max.java/max.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/null.java/null.java.iml" filepath="$PROJECT_DIR$/null.java/null.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse.java/reverse.java.iml" filepath="$PROJECT_DIR$/reverse.java/reverse.java.iml" />
+    </modules>
+  </component>
+</project>
